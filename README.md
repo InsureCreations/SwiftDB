@@ -1,2 +1,2 @@
-# Swift
-A golang website backend and api handler
+# SwiftDB
+A DataBase server
